@@ -47,8 +47,7 @@
 * **2025 데이터 분석 해커톤** 장려상
 
 ## 🔗 Links
-* **GitHub:** [https://github.com/hyjin0508](https://github.com/hyjin0508) (본인 GitHub 주소로 수정 가능)
-* **Portfolio:** [가상 포트폴리오 링크](https://github.com/)
+* **GitHub Profile:** [https://github.com/2024603039](https://github.com/2024603039)
 
 ## 🤝 References
 * **광운대학교 박규동 교수님** (정보융합학부)
